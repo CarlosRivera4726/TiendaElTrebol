@@ -1,1 +1,1 @@
-﻿#Proyecto Tienda El Trébol
+# Proyecto Tienda El Trébol
